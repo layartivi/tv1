@@ -1,0 +1,703 @@
+#EXTM3U
+
+#EXTINF:0 group-title="电影直播",林正英电影        
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",林正英电视剧        
+https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",洪金宝        
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",周星驰        
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",徐峥电影        
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",林正英        
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",刘德华        
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",王晶电影        
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",古惑仔电影       
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",赌博电影       
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",女神港片        
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",丧尸电影       
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",战争电影       
+http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",好莱坞电影       
+http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+#EXTINF:0 group-title="电影直播",灾难电影        
+http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
+#EXTINF:0 group-title="电影直播",惊悚电影        
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:0 group-title="电影直播",复仇犯罪电影       
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",子丹电影       
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:0 group-title="电影直播",古天乐电影       
+http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+#EXTINF:0 group-title="电影直播",高清电影1        
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",高清电影2        
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",高清电影3       
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",高清电影4       
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",熊猫电影1       
+http://pl-hls29.live.panda.tv/live_panda/733cd3c662c6eaeb491c3f15b6e4f728.m3u8
+#EXTINF:0 group-title="电影直播",熊猫电影2       
+http://pl-hls29.live.panda.tv/live_panda/7e32e0b90b83df37c59ec7a3f288f609.m3u8
+#EXTINF:0 group-title="电影直播",熊猫电影3      
+http://pl-hls29.live.panda.tv/live_panda/4990d2845b030d5d9f1289389bb07556.m3u8
+#EXTINF:0 group-title="电影直播",齐齐影视        
+https://alhls-cdn.zhanqi.tv/zqlive/276611_D7L5A.m3u8
+#EXTINF:0 group-title="电影直播",成龙        
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",李连杰        
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",香港电影        
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",电影轮播       
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",大片直播        
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:0 group-title="电影直播",精品电影        
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:0 group-title="电影直播",明星大片        
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:0 group-title="电影直播",电影阁        
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:0 group-title="电影直播",老片播放        
+http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+
+
+
+#EXTINF:0, group-title="English",& Flix
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",& Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",& Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Animal Planet (English)
+http://mhms10.airtel.tv/wh7f454c46tw3354624603_1843911667/PLTV/88888888/224/3221226488/index.m3u8
+#EXTINF:0, group-title="English",Bloomberg Quint
+https://d1j33l0xltpapp.cloudfront.net/bqmain_2.m3u8
+#EXTINF:0, group-title="English",CNBC 18 News
+https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
+#EXTINF:0, group-title="English",CNN News 18 
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+#EXTINF:0, group-title="English",CVR News
+https://dbgz3a72bx1vv.cloudfront.net/yuppenc2/ngrp:cvrnewseng_all/chunklist_b2179072.m3u8
+#EXTINF:0, group-title="English",D Sports
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/index.m3u8
+#EXTINF:0, group-title="English",D Sports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:0, group-title="English",Discovery Turbo
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:0, group-title="English",DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:0, group-title="English",Et Now
+https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/chunklist_w1103706317_b512000.m3u8
+#EXTINF:0, group-title="English",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:0, group-title="English",God TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/index.m3u8
+
+#EXTINF:0, group-title="English",HBO Hits
+http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
+#EXTINF:0, group-title="English",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:0, group-title="English",ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8?xtreamiptv.m3u8
+#EXTINF:0, group-title="English",Living Foodz
+http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0, group-title="English",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:0, group-title="English",NDTV 24x7
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+#EXTINF:0, group-title="English",NDTV Good Times
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:0, group-title="English",NDTV Prime
+https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
+#EXTINF:0, group-title="English",Neo Prime
+http://cshms2.airtel.tv/wh7f454c46tw3145810737_1488862081/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:0, group-title="English",Neo Sports
+http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:0, group-title="English",PTV Sports
+http://50.7.198.170:8081/abcd/ptvsports/playlist.m3u8
+#EXTINF:0, group-title="English",Sony ESPN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:0, group-title="English",Sony ESPN HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="English",Sony Le Plex HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+#EXTINF:0, group-title="English",Sony Pix
+http://cshms1.airtel.tv/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:0, group-title="English",Sony Six
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:0, group-title="English",Sony Six HD
+http://163.172.85.133:8080/Cricket/3/index.m3u8
+#EXTINF:0, group-title="English",Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:0, group-title="English",Ten 1 HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0, group-title="English",Ten 2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:0, group-title="English",Ten 2 HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0, group-title="English",TLC HD World
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+
+
+#EXTINF:0 group-title="ChinaTv",Phim TQ 1
+http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 2
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 3
+http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 4
+http://alhls.cdn.zhanqi.tv/zqlive/44509_4oiYY.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 5 (Kinh dị, KH-VT,hài kịch)
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 6
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 7
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 8
+http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 9
+http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 10
+http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 11
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 12
+http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 13
+http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 14
+http://alhls.cdn.zhanqi.tv/zqlive/74160_mUCBT.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 15
+http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 16
+http://alhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 17
+http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 18
+http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 19
+http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 20
+http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 21 (Conan)
+http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 22 (One piece)
+http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 23
+http://alhls.cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 24
+http://alhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 25
+http://alhls.cdn.zhanqi.tv/zqlive/97952_NHycj.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 26
+http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 27
+http://alhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 28
+http://alhls.cdn.zhanqi.tv/zqlive/182988_cn66n.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 29
+http://alhls.cdn.zhanqi.tv/zqlive/130564_7PZZr.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 30
+http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 31
+http://alhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 32
+http://alhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 33
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 34
+http://alhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 35
+http://alhls.cdn.zhanqi.tv/zqlive/130564_7PZZr.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 36
+http://alhls.cdn.zhanqi.tv/zqlive/182988_cn66n.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 37
+http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 38
+http://alhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 39
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 40
+http://alhls.cdn.zhanqi.tv/zqlive/44509_4oiYY.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 41
+http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 42
+http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 43
+http://alhls.cdn.zhanqi.tv/zqlive/253302_k2NdS.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 44
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 45
+http://alhls.cdn.zhanqi.tv/zqlive/74160_mUCBT.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 46
+http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 47
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 48
+http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 49
+http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 50
+http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 51
+http://alhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 52
+http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 53
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 54
+http://liveal.quanmin.tv/live/1106899064.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 55 (Thành Long)
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 56 (Lý Liên Kiệt)
+http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 57 (Châu Tinh Trì)
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Lưu Đức Hòa)
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Disney)
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Báo tuyết)
+http://ws4.streamhls.huya.com/huyalive/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1_1200/playlist.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Bảng Phong Thần)
+http://ws4.streamhls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Hoàn châu công chúa)
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Căn hộ tình yêu)
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Dragon Gate Escort)
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Thám tử Di Renjie)
+http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Bao thanh thiên)
+http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Lính tấn công)
+http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Trường hợp nghiêm trọng 6)
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Anh hùng xạ điêu)
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Yitian Shoulong)
+http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Răng đồng răng sắt Ji Xiaolan)
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Anh em thực phẩm hoang dã)
+http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Trung Quốc trên đầu lưỡi)
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200/playlist.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Hội thảo cười lớn)
+http://aldirect.hls.huya.com/huyalive/94525224-2669150520-11463914191501393920-4413173724-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Chen Xiang 6:30)
+http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Bài hát Xiaobao)
+http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-1525339704-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Phim bom tấn Hollywood)
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Cờ bạc quốc gia)
+http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Siêu anh hùng)
+http://js.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Cuộc chiến băng đảng)
+http://ws4.streamhls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1_1200/playlist.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Tốc độ và niềm đam mê)
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Hoạt hình SpongeBob)
+http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-1525495791-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Hoạt hình Ban đầu D)
+http://aldirect.hls.huya.com/huyalive/29169025-2686220654-11537229858769731584-2847687562-10057-A-1524128397-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Hoạt hình Doraemon)
+http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Hoạt hình Áo giáp sắt)
+http://aldirect.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-1525492914-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ (Hoạt hình Hoàng tử quần vợt)
+http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 58
+http://liveal.quanmin.tv/live/2140786482.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 59
+http://liveal.quanmin.tv/live/2036316982.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 60
+http://liveal.quanmin.tv/live/1509543480.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 61
+http://liveal.quanmin.tv/live/2031799856.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 62
+http://liveal.quanmin.tv/live/1096396904.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 63
+http://liveal.quanmin.tv/live/2046540092.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 64
+http://liveal.quanmin.tv/live/1597871656.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 65
+http://liveal.quanmin.tv/live/2015339572.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 66
+http://liveal.quanmin.tv/live/2046338612.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 67
+http://liveal.quanmin.tv/live/2019468332.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 68
+http://liveal.quanmin.tv/live/2046731300.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 69
+http://liveal.quanmin.tv/live/2046736702.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 70
+http://liveal.quanmin.tv/live/2031920686.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 71
+http://liveal.quanmin.tv/live/2029762870.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 72
+http://liveal.quanmin.tv/live/2142818098.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 73
+http://liveal.quanmin.tv/live/2065688930.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 74
+http://liveal.quanmin.tv/live/2044699692.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 75
+http://liveal.quanmin.tv/live/2134428978.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 76
+http://liveal.quanmin.tv/live/2038085940.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 77
+http://liveal.quanmin.tv/live/2038343220.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 78
+http://liveal.quanmin.tv/live/2034214452.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 79
+http://liveal.quanmin.tv/live/2116013880.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 80
+http://liveal.quanmin.tv/live/2142818098.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 81
+http://liveal.quanmin.tv/live/2046540092_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 82
+http://liveal.quanmin.tv/live/2031920686_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 83
+http://liveal.quanmin.tv/live/2044699692_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 84
+http://liveal.quanmin.tv/live/2065688930_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 85
+http://liveal.quanmin.tv/live/2038085940_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 86
+http://liveal.quanmin.tv/live/2134428978_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 87
+http://dlhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 88
+http://liveal.quanmin.tv/live/2046731300_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 89
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 90
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 91
+http://liveal.quanmin.tv/live/1715204896.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 92
+http://liveal.quanmin.tv/live/2031799856_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 93
+http://liveal.quanmin.tv/live/2019468332_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 94 (Moto GP)
+http://liveal.quanmin.tv/live/2132332338.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 95
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 96 (Conan)
+http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 97
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
+#EXTINF:0 group-title="ChinaTv",Phim TQ 98
+http://liveal.quanmin.tv/live/2117651770.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 99
+http://liveal.quanmin.tv/live/2059397482.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 100 (HT Lý Tiểu Long)
+http://liveal.quanmin.tv/live/1534700896.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 101
+http://liveal.quanmin.tv/live/1524215162.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 102
+http://liveal.quanmin.tv/live/2142817570.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 103
+http://liveal.quanmin.tv/live/1543089528.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 104
+http://liveal.quanmin.tv/live/2057235314.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 105 (Phong Vân)
+http://liveal.quanmin.tv/live/1543090016.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 106 (Siêu nhân)
+http://liveal.quanmin.tv/live/1532538232.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 107 (Những nụ hôn ngọt ngào)
+http://liveal.quanmin.tv/live/2134506790.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 108 (Hot Shot)
+http://liveal.quanmin.tv/live/2124348716.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 109
+http://liveal.quanmin.tv/live/2019468332.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 110
+http://liveal.quanmin.tv/live/2134495018.flv
+#EXTINF:0 group-title="ChinaTv",Phim TQ 111 (Phim hài)
+http://liveal.quanmin.tv/live/1579085168.flv
+#EXTINF:0 group-title="ChinaTv",Music 1
+http://liveal.quanmin.tv/live/1524215674.flv
+#EXTINF:0 group-title="ChinaTv",Music 2
+http://liveal.quanmin.tv/live/130742.flv
+#EXTINF:0 group-title="ChinaTv",Music 3
+http://liveal.quanmin.tv/live/2040262444_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Music 4
+http://liveal.quanmin.tv/live/2021587312_quanmin720.flv
+#EXTINF:0 group-title="ChinaTv",Music 5
+http://liveal.quanmin.tv/live/1526312810.flv
+#EXTINF:0 group-title="ChinaTv",WWE
+http://liveal.quanmin.tv/live/2115620138.flv
+
+#EXTINF:0 group-title="Music",Nhạc Country
+http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
+#EXTINF:0 group-title="Music",Vietteen HD
+http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 group-title="Music",Keeng Music S1
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF:0 group-title="Music",Keeng Music S2
+http://media5.keeng.vn/livetv/keeng.m3u8
+#EXTINF:0 group-title="Music",Keeng Movies
+http://vip.media5.keeng.vn/5dtv/5dtv.m3u8\",\"genre\":\"FIM
+#EXTINF:0 group-title="Music",Channel V HD 
+http://fpttv.tk/iptv/hplus.php?id=channelv-hd
+#EXTINF:0 group-title="Music",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
+#EXTINF:0 group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 group-title="Music",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0 group-title="Music",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0 group-title="Music",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 group-title="Music",ONE 1080P
+http://rtmp.one.by:1300
+#EXTINF:0 group-title="Music",ONE RUSIA 1080P
+http://rtmp.one.by:2300
+#EXTINF:0 group-title="Music",O 1080P
+http://77.232.128.68/bks.m3u8
+#EXTINF:0 group-title="Music",1 HD MUSIC
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
+#EXTINF:0 group-title="Music",MUSIC BOX
+http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/chunklist.m3u8
+#EXTINF:0 group-title="Music",V2BEAT HD
+http://139.59.166.48:8081/live/live3/chunklist.m3u8
+
+#EXTINF:0 group-title="Discovery",Discovery HD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/04.m3u8
+#EXTINF:0 group-title="Discovery",Discovery TURBO
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/04.m3u8
+#EXTINF:0 group-title="Discovery",Discovery Science
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/04.m3u8
+#EXTINF:0 group-title="Discovery",Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8
+#EXTINF:0 group-title="Discovery",Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/04.m3u8
+#EXTINF:0 group-title="Discovery",SONY BBC EARTH HD
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:0 group-title="Discovery",TLC HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
+
+#EXTINF:0 group-title="Korea",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 group-title="Korea",ALL THE K-POP
+https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
+#EXTINF:0 group-title="Korea",M Net Countdown
+http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8
+#EXTINF:0 group-title="Korea",Kênh A
+http://lgedge1.everyon.tv/lgetv1/phd1158/playlist.m3u8
+#EXTINF:0 group-title="Korea",Kênh A Plus
+http://lgedge1.everyon.tv/lgetv1/phd1143/playlist.m3u8
+#EXTINF:0 group-title="Korea",KBSN PLUS
+http://edge1.everyon.tv:1935/etv1/phd1327/playlist.m3u8
+#EXTINF:0 group-title="Korea",YTN
+http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
+#EXTINF:0 group-title="Korea",YTN Life
+http://lgedge1.everyon.tv/lgetv1/phd1129/playlist.m3u8
+#EXTINF:0 group-title="Korea",MBC
+http://edge2.everyon.tv/etv2/phd847/HasBahCa.m3u8
+#EXTINF:0 group-title="Korea",C TIME
+http://edge2.everyon.tv:1935/etv2/phd21/playlist.m3u8
+#EXTINF:0 group-title="Korea",SBS G1
+rtmp://smart.igtb.co.kr/live/stream.sdp
+#EXTINF:0 group-title="Korea",MBN
+http://lgedge1.everyon.tv/lgetv1/phd1108/playlist.m3u8
+#EXTINF:0 group-title="Korea",ESB1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:0 group-title="Korea",ESB2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:0 group-title="Korea",ESBe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:0 group-title="Korea",EBSi
+rtmp://ebsonair.ebs.co.kr/plus1familypc/familypc1m
+#EXTINF:0 group-title="Korea",ESB Kids
+rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m
+#EXTINF:0 group-title="Korea",ONT
+http://lgedge1.everyon.tv/lgetv1/phd1161/playlist.m3u8
+#EXTINF:0 group-title="Korea",OBS
+http://lgedge1.everyon.tv/lgetv1/phd1113/playlist.m3u8
+#EXTINF:0 group-title="Korea",TRENDY
+http://edge2.everyon.tv/etv2sb/phd753/chunklist_w881820644.m3u8
+#EXTINF:0 group-title="Korea",CMC Family Entertainment
+rtmp://edge1.everyon.tv:1935/etv1sb/phd1
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dojo-box.com/wp-content/uploads/2015/09/logo-aditv.png" group-title="INDONESIA",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EtJenC.jpg" group-title="INDONESIA",Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png" group-title="INDONESIA",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" group-title="INDONESIA",BBSTV Surabaya
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="INDONESIA",BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="INDONESIA",Celestial Movies (HK)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="INDONESIA",CinemaWorld (SG) (New!)
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" group-title="INDONESIA",Diva
+http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="INDONESIA",Foodie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="INDONESIA",Global TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="INDONESIA",Hits
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="INDONESIA",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",Indosiar
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="INDONESIA",J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" group-title="INDONESIA",Jakarta Globe (English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5L2EGWA.png" group-title="INDONESIA",JakTV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/1200px-Logo_Jawapos_TV.png" group-title="INDONESIA",Jawa Pos TV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://www.jawapos.tv/assets/img/list/pandeglang&tangerang.jpg" group-title="INDONESIA",Jawa Pos TV (RTMP)
+rtmp://122.248.32.234:1935/ch6/myStream
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="INDONESIA",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="INDONESIA",K Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CUgQtCo.jpg" group-title="INDONESIA",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="INDONESIA",Kix (Opt-1)
+http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="INDONESIA",Kix (Opt-2)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/kompas-tv-png-1.png" group-title="INDONESIA",Kompas
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a2/6d/3a/a26d3a1ebfc563aa6cc22a64be85bb4c.png" group-title="INDONESIA",MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://beta.dens.tv/images/channel-logo/95.jpg" group-title="INDONESIA",My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INDONESIA",Nick Jr.
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="INDONESIA",Okey TV
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/b6/04/afb604c480a768b932f6b26ced44db3d.png" group-title="INDONESIA",RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/RTM_TVi.jpg" group-title="INDONESIA",RTM TVi
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" group-title="INDONESIA",RTV
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9a/a3/cc/9aa3cca889c266b1cd750a452d982a9e.jpg" group-title="INDONESIA",Saling Sapa TV
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mffNC0H.png" group-title="INDONESIA",SBS TV
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="INDONESIA",Sony Gem (SG) (New!)
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7kAO7Y.jpg" group-title="INDONESIA",Star Bridge TV
+http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3lQGtp.png" group-title="INDONESIA",SuperSoccer TV (Opt-1)
+http://210.210.155.35/session/386ba54a-48ed-11e9-b58e-9b4ca4d348fc/uq2663/h/h20/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3lQGtp.png" group-title="INDONESIA",SuperSoccer TV (Opt-2)
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.theindonesiachannel.com/assets/img/logo.png" group-title="INDONESIA",The Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="INDONESIA",Thrill (Opt-1)
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="INDONESIA",Thrill (Opt-2)
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://career.trans7.co.id/images/trans7.png" group-title="INDONESIA",Trans 7
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ntWIQ3h6jfY/VtxHKTuef4I/AAAAAAAAAEg/GHp3iYd9Bmw/s1600/TRANS_TV.png" group-title="INDONESIA",Trans TV
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Nk6vOa_h0kM/VtxLkkTLAZI/AAAAAAAAAE4/VrgEweHdhys/s1600/tvone%2Bonline%2Bstreaming.png" group-title="INDONESIA",TV One
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="INDONESIA",TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="INDONESIA",TVRI (Opt-1)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="INDONESIA",TVRI (Opt-2)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="INDONESIA",TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="INDONESIA",TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O3pDm4l.png" group-title="INDONESIA",TVRI Sport
+http://210.210.155.35/session/8dc2906e-1a3d-11e9-b2c3-8aac890eb9f3/qwr9ew/s/s48/index.m3u8?fluxustv.m3u8
